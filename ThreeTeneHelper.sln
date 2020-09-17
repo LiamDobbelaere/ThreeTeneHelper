@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeTeneHelper", "ThreeTeneHelper.csproj", "{7E0A3675-8E56-4A9F-867D-129A74F6AB63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E0A3675-8E56-4A9F-867D-129A74F6AB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0A3675-8E56-4A9F-867D-129A74F6AB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0A3675-8E56-4A9F-867D-129A74F6AB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0A3675-8E56-4A9F-867D-129A74F6AB63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD2918CA-7219-48EE-8A2C-A74A11271395}
+	EndGlobalSection
+EndGlobal
